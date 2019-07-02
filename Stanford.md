@@ -1,6 +1,6 @@
-# [Stanford](https://cs.stanford.edu/degrees/undergrad/ProgramSheets/CS_AI_1819PS.pdf)
+# [Stanford](https://cs.stanford.edu/degrees/undergrad/ProgramSheets.shtml)
 
-AI track 开设在CS专业
+[AI track](https://cs.stanford.edu/degrees/undergrad/ProgramSheets/CS_AI_1819PS.pdf) 开设在CS专业
 
 ## Math ``数学基础课``
 
