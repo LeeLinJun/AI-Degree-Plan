@@ -1,6 +1,5 @@
 # [University of Missouri](http://catalog.missouri.edu/courseofferings/cmp_sc/) 课程总览
 
-没有track, 课程修够即可毕业
 
 >The BS degree requires the completion of 126 credits. Computer Science 
 >students must pass all CS core courses that are prerequisites for other 
@@ -21,19 +20,19 @@ C- or higher in [CMP_SC 1050](http://catalog.missouri.edu/search/?P=CMP_SC 1050)
 
 ## **CMP_SC 2270:  Introduction to Logic Systems** 逻辑系统导论
 
-C or higher in [CMP_SC 1050](http://catalog.missouri.edu/search/?P=CMP_SC 1050)``算法与编程 I== or [INFOTC 1040](http://catalog.missouri.edu/search/?P=INFOTC 1040)``问题求解与编程 导论``
+C or higher in [CMP_SC 1050](http://catalog.missouri.edu/search/?P=CMP_SC 1050)``算法与编程 I`` or [INFOTC 1040](http://catalog.missouri.edu/search/?P=INFOTC 1040)``问题求解与编程 导论``
 
 ## **CMP_SC 4410:  Theory of Computation I** 计算理论
 
- C- or higher in [MATH 2320](http://catalog.missouri.edu/search/?P=MATH 2320)``离散数学（结构）：Discrete Mathematical Structures==
+ C- or higher in [MATH 2320](http://catalog.missouri.edu/search/?P=MATH 2320)``离散数学（结构）：Discrete Mathematical Structures``
 
 ## **CMP_SC 4350:  Big Data Analytics** 大数据分析
 
-**Prerequisites:** C- or higher in [CMP_SC 3330](http://catalog.missouri.edu/search/?P=CMP_SC 3330)==oop:面向对象编程`` and [CMP_SC 3380](http://catalog.missouri.edu/search/?P=CMP_SC 3380)``数据库应用和信息系统``
+**Prerequisites:** C- or higher in [CMP_SC 3330](http://catalog.missouri.edu/search/?P=CMP_SC 3330)``oop:面向对象编程`` and [CMP_SC 3380](http://catalog.missouri.edu/search/?P=CMP_SC 3380)``数据库应用和信息系统``
 
 ##  **CMP_SC 4720:  Introduction to Machine Learning and Pattern Recognition** 机器学习与模式识别导论
 
-C- or higher in [CMP_SC 2050](http://catalog.missouri.edu/search/?P=CMP_SC 2050)``算法与编程 II==  and [STAT 4710](http://catalog.missouri.edu/search/?P=STAT 4710) ``数理统计导论==or instructor consent
+C- or higher in [CMP_SC 2050](http://catalog.missouri.edu/search/?P=CMP_SC 2050)``算法与编程 II``  and [STAT 4710](http://catalog.missouri.edu/search/?P=STAT 4710) ``数理统计导论``or instructor consent
 
 ## **CMP_SC 4750/CMP_SC 7750:  Artificial Intelligence I** 人工智能I
 
