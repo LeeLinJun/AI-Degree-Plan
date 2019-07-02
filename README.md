@@ -5,6 +5,6 @@ AI Degree Plan for some universities
 
 [Stanford](https://github.com/LeeLinJun/AI-Degree-Plan/blob/master/Stanford.md)
 
-[UCSD](https://github.com/LeeLinJun/AI-Degree-Plan/blob/master/UCSD%20Artificial%20Intelligence%20Cluster.md)
+[UCSD Artificial Intelligence Cluster](https://github.com/LeeLinJun/AI-Degree-Plan/blob/master/UCSD%20Artificial%20Intelligence%20Cluster.md)
 
 [University of Missouri](https://github.com/LeeLinJun/AI-Degree-Plan/blob/master/University%20of%20Missouri.md)
