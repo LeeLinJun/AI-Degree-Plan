@@ -17,9 +17,9 @@
 - [Freshman Immigration Course (15-128) ](http://www.andrew.cmu.edu/course/15-128/archive/index.html.2007)``新生移民课，类似导论+熟悉院系``
 - [Principles of Imperative Computation (15-122)](http://www.cs.cmu.edu/~15122/syllabus.shtml) ``指令式计算原理（指编程范式）``
 - Principles of Functional Programming (15-150)``函数式编程原理``
-- Parallel and Sequential Data Structures and Algorithms (15-210)
-- Introduction to Computer Systems (15-213)
-- Great Theoretical Ideas in Computer Science (15-251)
+- Parallel and Sequential Data Structures and Algorithms (15-210)``并行与穿行数据结构和算法``
+- Introduction to Computer Systems (15-213)``计算机系统导论``
+- Great Theoretical Ideas in Computer Science (15-251)``计算机科学的伟大理论思想``
 
 ## Artificial Intelligence Core AI核心课程
 
